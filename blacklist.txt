@@ -5,3 +5,13 @@
 ||https://advertising-api-eu.amazon.com
 ||https://amazonaax.com
 ||https://widgets.pinterest.com
+||appmetrica.yandex.ru
+||api.bugsnag.com
+||adtago.s3.amazonaws.com
+||analyticsengine.s3.amazonaws.com
+||advice-ads.s3.amazonaws.com
+||advertising-api-eu.amazon.com
+||analytics.google.com
+||udcm.yahoo.com
+||bdapi-ads.realmemobile.com
+||bdapi-in-ads.realmemobile.com
